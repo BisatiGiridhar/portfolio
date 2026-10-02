@@ -1,4 +1,3 @@
-import { RESUME_DATA } from "../data/resumeData";
 import { FaGraduationCap, FaAward, FaBrain, FaFilePdf } from "react-icons/fa6";
 import "./styles/About.css";
 
